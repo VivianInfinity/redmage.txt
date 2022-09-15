@@ -3,7 +3,7 @@
 ## new guide who dis
 sup i'm vivian infinity, i'm pretty bad at this 
 
-![nice](/img/Pasted image 20220518095224.png)
+![nice]("/img/Pasted image 20220518095224.png")
 
 but at least i got this screenshot, which, like, nice
 
