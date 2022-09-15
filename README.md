@@ -3,7 +3,7 @@
 ## new guide who dis
 sup i'm vivian infinity, i'm pretty bad at this 
 
-![[Pasted image 20220518095224.png]]
+![](/img/Pasted image 20220518095224.png)
 
 but at least i got this screenshot, which, like, nice
 
@@ -38,7 +38,7 @@ i will now be reading your buttons. feel free to skip this section if you can re
 **Limit Break - Southern Cross:** 2 lines form an X at your target with the arms of the X always postioned at 45 degrees (i.e. you will never be hit by this unless you're in the center). each line does 6k damage to enemies and 6k healing to allies. in white shift, the healing is doubled; in black shift, the damage is doubled. anyone in the center is hit twice, meaning your _target_ is _guaranteed_ to be hit twice. in black shift, this is 24k burst with 12k healing. 
 
 ## tl;dr gameplay rules of thumb
-![[Pasted image 20220914132626.png]]
+![](/img/Pasted image 20220914132626.png)
 _pictured: me in most games_
 
 your priorities as a redmage are, in order (roughly): 
@@ -127,7 +127,7 @@ step 5: you're probably dead, but if you're not, slink off elsewhere and drink y
 
 again, if you are in this position, it is extremely likely you fucked up about 5 seconds ago. if you're following these heuristics, it is a sign that either you made a mistake somewhere or the enemy team is massively overcomitting to a kill they cannot secure. think on your sins, basically
 
-### mid-late game
+### mid-late game (todo)
 #### the flow of the game
 #### target selection
 #### positioning
@@ -147,19 +147,19 @@ funny thing, though, is that your burst combo only takes about 10 seconds from r
 
 this, conveniently, makes it a great time to duck around a corner and take 5 seconds to drink a potion, refilling the mana you probably spent on your last engage. this alone can make redmage one of the highest uptime jobs in the game, since the time you spend potioning is often not that important anyways. 
 
-![[Pasted image 20220914191418.png]]
+![](/img/Pasted image 20220914191418.png)
 and you should probably do this.
 
-![[Pasted image 20220914191440.png]]
+![](/img/Pasted image 20220914191440.png)
 seriously, potion more than you probably think you should when you're just starting out (or if you have that pve parsing mindset). your health, much more than other classes, is a resource you do not have nearly enough of, and you will need to hit recoup more often than tankier classes and will often have to waste full recoup value just to stay out of burst range. 
 
 you are probably not potioning enough.
 
-![[Pasted image 20220914191540.png]]
+![](/img/Pasted image 20220914191540.png)
 _you are probably not potioning enough._
 
 ### resolution (or why i put off writing this guide)
-![[Pasted image 20220914130914.png]]
+![](/img/Pasted image 20220914130914.png)
 _pictured: resolution binding two dummies and showing that the range is a bit wider than the graphic implies_
 
 hey remember like three thousand years ago when i said that resolution may be the most impactful skill in the game, and that you should always pair it with your melee combo
@@ -209,7 +209,7 @@ as with all abilities that cleave, you generally want to hit as many people as y
 the reason for this is pretty obvious; a bound target can still hit all of their buttons besides movement; this means that they can immediately guard and recoup to shrug off damage that might be coming in and can still hit the person in front of them (usually), which means the pressure to hit purify is substantially lower, which means they are much less likely to be put into a recouperate loop by virtue of having more resources to respond with. if they don't recouperate, and they didn't need to move, you might as well have not crowd controlled them. 
 
 ### magick barrier/frazzle
-![[Pasted image 20220914131404.png]]
+![](/img/Pasted image 20220914131404.png)
 _pictured: the range on magick barrier/frazzle and the clear circle that shows you that range in game_
 
 fuck me this guide is long
@@ -229,7 +229,7 @@ this is the capstone ability to cement redmage as the "i have options" class. lu
 
 unluckily for you, the use cases for blackshift southern cross are fucking infinite and it is really easy to get no value with it. if you're not deliberate with this, you might as well not have a limit break; it's pretty meh on its own
 
-![[Pasted image 20220914130251.png]]
+![](/img/Pasted image 20220914130251.png)
 _pictured: me blinding myself with limit break, just like in pve_
 
 the way southern cross works in code is that you will create 2 lines at your target in the shape of an X with the arms of the cross pointed at 45 degree angles from the line between you and your target. each line does 6k damage and 6k healing, with damage doubled in blackshift and healing doubled in white. doubling twice means the center gets hit with 12k/24k healing/damage, depending on the version you choose, but since the ult itself is two separate AoEs and since damage applies sort of in a queue, the burst potential of blackshift is slightly (ish) delayed. although unlikely, this makes it possible to get a recoup between the two impacts and it makes it possible for a guard to only mitigate one of the lines for game's haunted reasons. 
@@ -289,8 +289,8 @@ and there's another reason you want to have a self-targeted macro to southern cr
 for context, in about 70% of my self-targeted white shift limit breaks, i regret the decision. 
 
 ### verholy/verflare
-![[Pasted image 20220914131759.png]]
-![[Pasted image 20220914132013.png]]
+![](/img/Pasted image 20220914131759.png)
+![](/img/Pasted image 20220914132013.png)
 _pictured: a 5 yalm radius around the target, which is super unclear in verflare's animation_
 
 honestly, after all the crap i wrote above, this section's not that complicated. it's a 5 yalm radius, so unless you're pressuring someone specifically or trying to kill (which, honestly, is most of the time), go for cleaves.
