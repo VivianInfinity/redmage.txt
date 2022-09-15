@@ -3,7 +3,7 @@
 ## new guide who dis
 sup i'm vivian infinity, i'm pretty bad at this 
 
-![nice]("/img/Pasted image 20220518095224.png")
+![nice](/img/20220518095224.png)
 
 but at least i got this screenshot, which, like, nice
 
@@ -38,7 +38,7 @@ i will now be reading your buttons. feel free to skip this section if you can re
 **Limit Break - Southern Cross:** 2 lines form an X at your target with the arms of the X always postioned at 45 degrees (i.e. you will never be hit by this unless you're in the center). each line does 6k damage to enemies and 6k healing to allies. in white shift, the healing is doubled; in black shift, the damage is doubled. anyone in the center is hit twice, meaning your _target_ is _guaranteed_ to be hit twice. in black shift, this is 24k burst with 12k healing. 
 
 ## tl;dr gameplay rules of thumb
-![me in most games](/img/Pasted image 20220914132626.png)
+![me in most games](/img/20220914132626.png)
 _pictured: me in most games_
 
 your priorities as a redmage are, in order (roughly): 
@@ -147,19 +147,19 @@ funny thing, though, is that your burst combo only takes about 10 seconds from r
 
 this, conveniently, makes it a great time to duck around a corner and take 5 seconds to drink a potion, refilling the mana you probably spent on your last engage. this alone can make redmage one of the highest uptime jobs in the game, since the time you spend potioning is often not that important anyways. 
 
-![potion0](/img/Pasted image 20220914191418.png)
+![potion0](/img/20220914191418.png)
 and you should probably do this.
 
-![potion1](/img/Pasted image 20220914191440.png)
+![potion1](/img/20220914191440.png)
 seriously, potion more than you probably think you should when you're just starting out (or if you have that pve parsing mindset). your health, much more than other classes, is a resource you do not have nearly enough of, and you will need to hit recoup more often than tankier classes and will often have to waste full recoup value just to stay out of burst range. 
 
 you are probably not potioning enough.
 
-![potion2](/img/Pasted image 20220914191540.png)
+![potion2](/img/20220914191540.png)
 _you are probably not potioning enough._
 
 ### resolution (or why i put off writing this guide)
-![](/img/Pasted image 20220914130914.png)
+![](/img/20220914130914.png)
 _pictured: resolution binding two dummies and showing that the range is a bit wider than the graphic implies_
 
 hey remember like three thousand years ago when i said that resolution may be the most impactful skill in the game, and that you should always pair it with your melee combo
@@ -209,7 +209,7 @@ as with all abilities that cleave, you generally want to hit as many people as y
 the reason for this is pretty obvious; a bound target can still hit all of their buttons besides movement; this means that they can immediately guard and recoup to shrug off damage that might be coming in and can still hit the person in front of them (usually), which means the pressure to hit purify is substantially lower, which means they are much less likely to be put into a recouperate loop by virtue of having more resources to respond with. if they don't recouperate, and they didn't need to move, you might as well have not crowd controlled them. 
 
 ### magick barrier/frazzle
-![magickbarrier](/img/Pasted image 20220914131404.png)
+![magickbarrier](/img/20220914131404.png)
 _pictured: the range on magick barrier/frazzle and the clear circle that shows you that range in game_
 
 fuck me this guide is long
@@ -289,8 +289,8 @@ and there's another reason you want to have a self-targeted macro to southern cr
 for context, in about 70% of my self-targeted white shift limit breaks, i regret the decision. 
 
 ### verholy/verflare
-![verholy0](/img/Pasted image 20220914131759.png)
-![verholy1](/img/Pasted image 20220914132013.png)
+![verholy0](/img/20220914131759.png)
+![verholy1](/img/20220914132013.png)
 _pictured: a 5 yalm radius around the target, which is super unclear in verflare's animation_
 
 honestly, after all the crap i wrote above, this section's not that complicated. it's a 5 yalm radius, so unless you're pressuring someone specifically or trying to kill (which, honestly, is most of the time), go for cleaves.
